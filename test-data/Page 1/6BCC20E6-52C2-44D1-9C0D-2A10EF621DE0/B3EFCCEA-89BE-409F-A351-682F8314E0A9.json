@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "06EC0F9E-08E2-4A7E-B84A-667E50B48375",
+  "do_objectID": "B3EFCCEA-89BE-409F-A351-682F8314E0A9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C51701C0-DE74-4993-8A7D-E1C4F1C40171",
+    "do_objectID": "9D34B917-7A6C-48A0-AEB7-1176734A2246",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A24055B0-B385-4BD9-A1B9-478EA2870554",
-    "height": 27,
-    "width": 343,
-    "x": 16,
-    "y": 208
+    "do_objectID": "36D3CAAB-5A61-4ABD-8EA2-D43BE71314CA",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Controls/Segmented Control/On Light - 2 Buttons",
+  "name": "Bars/Status Bar - iPhone X/On Light",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +39,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5549A47F-2603-48BC-823D-5E0F21BCE741",
+    "do_objectID": "6051EF23-9FFA-4423-BB59-62FFBE2E0BDB",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "01075897-1265-4BA2-A597-3F9EDAA4D8E9",
+  "symbolID": "0988BDD7-0229-414D-B0B9-0C7ECCFBB35E",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

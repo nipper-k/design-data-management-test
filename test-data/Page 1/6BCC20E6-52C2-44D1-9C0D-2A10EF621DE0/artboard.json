@@ -4,14 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "134DF7D3-5113-48FA-BC72-BF4EAE64F97A",
+    "do_objectID": "31442770-4F43-4615-8D2A-9571800C5D8B",
     "green": 1,
     "red": 1
   },
-  "do_objectID": "20B6E054-A467-421C-858B-14D88FCBA0A2",
+  "do_objectID": "6BCC20E6-52C2-44D1-9C0D-2A10EF621DE0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A434FB87-9881-4395-BDF0-9B380B8B2533",
+    "do_objectID": "83BA0551-0372-4300-93AB-5FB3B5E5C1E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2FA62F91-26C6-4402-A3AF-FCA1A6B9D00C",
+    "do_objectID": "AA99EBA9-4340-4AB5-8E46-DF7630C9C194",
     "height": 812,
     "width": 375,
     "x": 873,
@@ -33,7 +33,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "73D7C83C-E18D-4A64-BA29-F222A4D99B40",
+    "do_objectID": "CE90D42F-362A-4E5F-9D48-146749321CBF",
     "guides": [
     ]
   },
@@ -48,23 +48,23 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4DB83AAE-9B83-4EA9-996E-9D78659159BF"
+      "id": "5BAC96B3-4479-4F83-AED4-1AA559E34B40"
     },
     {
       "class": "symbolInstance",
-      "id": "AC33B35D-D704-48D5-B3F1-1B6AD3D36FDD"
+      "id": "B3EFCCEA-89BE-409F-A351-682F8314E0A9"
     },
     {
       "class": "symbolInstance",
-      "id": "06EC0F9E-08E2-4A7E-B84A-667E50B48375"
+      "id": "D76CD83E-AB06-45B6-8D25-8228B83D084D"
     },
     {
       "class": "symbolInstance",
-      "id": "E18712BD-F43C-4E16-973E-9B716557197B"
+      "id": "027F6C97-D4DF-4266-A28E-91AF11CECD53"
     },
     {
       "class": "symbolInstance",
-      "id": "FEF55453-FE35-4855-A6C8-D261A63BB7C1"
+      "id": "E14E791A-835E-4F4A-B8CE-3D9F6F693982"
     }
   ],
   "name": "iPhone x Copy",
@@ -83,7 +83,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "5F73AA45-0672-4D1B-8E97-F34F3A5B1AD0",
+    "do_objectID": "7916B139-39DC-4EF5-B2B5-85EE373566DE",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -91,7 +91,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C42DBBF2-5800-4CAC-AE7D-F843AB8F4D4E",
+    "do_objectID": "177A833E-B723-49F2-A7B9-C2A39B7278C7",
     "guides": [
     ]
   }

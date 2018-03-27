@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "4DB83AAE-9B83-4EA9-996E-9D78659159BF",
+  "do_objectID": "D76CD83E-AB06-45B6-8D25-8228B83D084D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "256F085B-02F7-4F04-BFB2-8CB452C99FA3",
+    "do_objectID": "D958E781-3D0A-44E4-9FAD-11751D21965A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "AF4DABDB-51E8-422F-89D6-D26352A69D38",
-    "height": 192,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "4BD44638-CAB8-48D8-84E7-11939AEB0F7C",
+    "height": 27,
+    "width": 343,
+    "x": 16,
+    "y": 208
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Navigation Bar - iPhone X/Light - Large Navigation Bar with Search",
+  "name": "Controls/Segmented Control/On Light - 2 Buttons",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,12 +39,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AAAF4C66-C08A-425D-B7FC-EC7A0E200D02",
+    "do_objectID": "E45845CD-A416-4531-B5BA-D6AD1CD47647",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7E0393A9-13A5-4CB0-AA25-26352F7F0B78",
+  "symbolID": "01075897-1265-4BA2-A597-3F9EDAA4D8E9",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
