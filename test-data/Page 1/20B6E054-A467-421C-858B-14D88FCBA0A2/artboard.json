@@ -4,12 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "134DF7D3-5113-48FA-BC72-BF4EAE64F97A",
     "green": 1,
     "red": 1
   },
-  "do_objectID": "DF8E744C-5956-420A-A5CD-FF561740479E",
+  "do_objectID": "20B6E054-A467-421C-858B-14D88FCBA0A2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A434FB87-9881-4395-BDF0-9B380B8B2533",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -20,9 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "2FA62F91-26C6-4402-A3AF-FCA1A6B9D00C",
     "height": 812,
     "width": 375,
-    "x": 448,
+    "x": 873,
     "y": 133
   },
   "hasBackgroundColor": false,
@@ -30,6 +33,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "73D7C83C-E18D-4A64-BA29-F222A4D99B40",
     "guides": [
     ]
   },
@@ -44,26 +48,26 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2B60007F-2B20-493E-BC89-078FDCAD0E07"
+      "id": "4DB83AAE-9B83-4EA9-996E-9D78659159BF"
     },
     {
       "class": "symbolInstance",
-      "id": "0C01BE30-6B88-4838-8F3A-CCAF9C015173"
+      "id": "AC33B35D-D704-48D5-B3F1-1B6AD3D36FDD"
     },
     {
       "class": "symbolInstance",
-      "id": "D14F33B1-D39E-4A5A-B00C-D0B417F1E8FD"
+      "id": "06EC0F9E-08E2-4A7E-B84A-667E50B48375"
     },
     {
       "class": "symbolInstance",
-      "id": "4ADB0170-16E4-47C6-AA46-25A0A517C5E3"
+      "id": "E18712BD-F43C-4E16-973E-9B716557197B"
     },
     {
       "class": "symbolInstance",
-      "id": "208FDE93-EB07-4FAA-88E3-16C9763F7E86"
+      "id": "FEF55453-FE35-4855-A6C8-D261A63BB7C1"
     }
   ],
-  "name": "iPhone x",
+  "name": "iPhone x Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -79,6 +83,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5F73AA45-0672-4D1B-8E97-F34F3A5B1AD0",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -86,6 +91,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "C42DBBF2-5800-4CAC-AE7D-F843AB8F4D4E",
     "guides": [
     ]
   }

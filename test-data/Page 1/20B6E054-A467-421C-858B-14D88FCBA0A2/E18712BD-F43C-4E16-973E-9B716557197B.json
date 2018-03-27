@@ -1,8 +1,9 @@
 {
-  "_class": "page",
-  "do_objectID": "6ddd6b10-318c-11e8-bb3d-1d4bd53cf0a9",
+  "_class": "symbolInstance",
+  "do_objectID": "E18712BD-F43C-4E16-973E-9B716557197B",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "122521F4-1E67-45CA-8948-DDCF025EEE31",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,50 +14,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "do_objectID": "9EF5CB97-9C84-45F3-946B-5A6EDD632808",
+    "height": 44,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 251
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "20B6E054-A467-421C-858B-14D88FCBA0A2"
-    },
-    {
-      "class": "artboard",
-      "id": "DF8E744C-5956-420A-A5CD-FF561740479E"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Controls/Slider/Light - Glyphs",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "1584DC98-4B6D-4DEA-896A-C831689650A4",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "BC826A3C-C8D2-4DC0-A739-475407D9F8FE",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
 }
